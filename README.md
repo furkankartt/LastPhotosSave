@@ -5,3 +5,7 @@ bile kullanılabilecek bir program, video resim istediğiniz dosyayı istediğin
 kopyaladıktan sonra telefonunuzdan silebilirsiniz.
 
 ***ÖNEMLİ***
+Manage Nuget Packages geliyoruz ve MediaDevices eklentisini kaldırıyoruz ve yeniden yüklüyoruz. 
+Daha sonrasında projemizin içerisinde bulunan HelpProject dosyasının içerisinde bulunan 
+Form1.resx isimli dosyamıza sağ tıklıyoruz ve özellikler diyoruz daha sonrasıda bu dosyanın 
+engeli kaldırılsın mı checkboxına tıklıyoruz ve uygula dedikten sonra projemiz başarılı bir şekilde çalışacaktır.
