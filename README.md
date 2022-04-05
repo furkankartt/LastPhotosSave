@@ -9,3 +9,6 @@ Manage Nuget Packages geliyoruz ve MediaDevices eklentisini kaldırıyoruz ve ye
 Daha sonrasında projemizin içerisinde bulunan HelpProject dosyasının içerisinde bulunan 
 Form1.resx isimli dosyamıza sağ tıklıyoruz ve özellikler diyoruz daha sonrasıda bu dosyanın 
 'Engellemeyi Kaldır' checkboxına tıklıyoruz ve uygula dedikten sonra projemiz başarılı bir şekilde çalışacaktır.
+
+***TELEFON AYARI***
+Telefon isminizi ve telefonunuzun depolama alanının yolunu kod bölümünden değiştirmeniz gerekiyor.
